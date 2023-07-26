@@ -8,6 +8,7 @@ import Reviews from "./Reviews";
 import ReservationCard from "./ReservationCard";
 import Menu from "./Menu";
 import MenuCard from "./MenuCard";
+import ReviewCard from "./ReviewCard";
 
 export {
   Header,
@@ -20,4 +21,5 @@ export {
   ReservationCard,
   Menu,
   MenuCard,
+  ReviewCard,
 };
