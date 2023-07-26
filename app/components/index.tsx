@@ -3,4 +3,5 @@ import Header from "./Header";
 import RestaurantCard from "./RestaurantCard";
 import SearchBar from "./SearchBar";
 import Price from "./Price";
-export { Navbar, Header, RestaurantCard, SearchBar, Price };
+import Stars from "./Stars";
+export { Navbar, Header, RestaurantCard, SearchBar, Price, Stars };
